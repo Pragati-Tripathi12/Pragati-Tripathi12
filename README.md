@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 , I'm Pragati Tripathi - Building, learning, and leveling up
 
-<!--
-**Pragati-Tripathi12/Pragati-Tripathi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ about me
+- 🎓 B.Tech student (2027)
+- 💻 focused on **full-stack development + DSA**
+- 🚀 goal: crack top tech & build impactful products  
+- 🧠 currently learning: **react, backend, system design**
+- 📈 believer of: consistency > motivation
+  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pragati-tripathi12&theme=dark)](https://git.io/streak-stats)
+
