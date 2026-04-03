@@ -4,7 +4,6 @@
 - 🎓 B.Tech student (2027)
 - 💻 focused on **full-stack development + DSA**
 - 🚀 goal: crack top tech & build impactful products  
-- 🧠 currently learning: **react, backend, system design**
 - 📈 believer of: consistency > motivation
   
 
