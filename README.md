@@ -111,32 +111,7 @@ vector<string> focus = {
 
 <br/>
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧑‍💻 AI Code Reviewer</h3>
-      <p>Paste code, get instant AI-generated review feedback.</p>
-      <sub><code>React</code> · <code>Node.js</code> · <code>Gemini API</code></sub><br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">View repo →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📚 BiblioAI</h3>
-      <p>Book recommendation engine powered by K-Nearest Neighbors.</p>
-      <sub><code>Python</code> · <code>Scikit-learn</code></sub><br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">View repo →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚗 PriceWheels</h3>
-      <p>Predicts used-car prices using regression models.</p>
-      <sub><code>Python</code> · <code>Pandas</code> · <code>Scikit-learn</code></sub><br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/REPO_NAME">View repo →</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 🏆 Highlights
 
